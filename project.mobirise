@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tom-Brick",
-    "currentPage": "index.html",
+    "currentPage": "polityka.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -85,7 +85,7 @@
       "underlineLink": true,
       "text": "Aby kontynuować, musisz zgodzić się z warunkami naszego <a href='regulamin.html'>Regulaminu</a> oraz <a herf=polityka.html>Polityką Prywatności</a>"
     },
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "kontakt.html": {
