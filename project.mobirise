@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tom-Brick",
-    "currentPage": "index.com.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -66,7 +66,7 @@
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://tom-brick.com",
+    "siteUrl": "https://tom-brick.github.io",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#ffffff",
@@ -2867,7 +2867,7 @@
         }
       ]
     },
-    "index.com.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Tom-Brick Usługi Brukarskie I Ogrodzenia",
