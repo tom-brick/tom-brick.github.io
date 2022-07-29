@@ -85,7 +85,7 @@
       "underlineLink": true,
       "text": "Aby kontynuować, musisz zgodzić się z warunkami naszego <a href='regulamin.html'>Regulaminu</a> oraz <a herf=polityka.html>Polityką Prywatności</a>"
     },
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "dppsSwitcher": true,
     "spellingSwitch": true,
     "site_lang": "en",
@@ -3282,7 +3282,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Tom-Brick Usługi Brukarskie I Ogrodzenia",
+        "title": "Usługi Brukarskie I Ogrodzenia. Tom-Brick, Tomasz Zięba. Usługi Brukarskie Głogów Małopolski, Usługi Brukarskie Rzeszów. Usługi Minikoparkami",
         "meta_descr": "Kompleksowo wykonujemy także usługi: ogrodzenia frontowe, panelowe, betonowe, z siatki, fundamenty, ocieplenia i hydroizolacje fundamentów, drenaże, usługi minikoparkami i ładowarkami oraz usługi wywrotką 3,5 tony, wykopy i niwelacje terenu, wykańczanie wnętrz.",
         "header_custom": "",
         "footer_custom": "",
